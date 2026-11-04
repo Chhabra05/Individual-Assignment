@@ -1,0 +1,15 @@
+# AI Log & Reflection
+
+### What I asked AI:
+* *"Hey, how do I group prices by city in pandas?"*
+* *"Can you show me how to find the average price for each item?"*
+
+### What AI suggested that I rejected:
+* AI tried to tell me to look at an `average_wage` column to compare with prices.
+* **Why I said no:** I checked the dataset columns, and `average_wage` doesn't exist in `teaching_prices_clean.csv`! So I ignored that suggestion.
+
+### What I learned:
+* AI can sound confident even when it's wrong, so I shouldn't trust its suggestions without checking them myself.
+* Always check that the variables actually exist in the dataset before using them in an analysis.
+* AI was useful for learning pandas steps like `groupby()` and `mean()`, but I still had to decide which questions made sense for my data.
+* My pre-code guesses helped me see how much I actually knew about the dataset before running any code.
