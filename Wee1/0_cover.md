@@ -6,7 +6,7 @@ ERP ID: 36500
 Grace Tokens Used: no
 
 ai tool used ?/ claude
-Snapshot code (commit for `attempt-before-AI`):
+Snapshot code (commit for `attempt-before-AI`): b6ccc4f
 
 
 Files in this folder:
